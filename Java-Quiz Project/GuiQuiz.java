@@ -140,7 +140,7 @@ public class GuiQuiz implements ActionListener
 		}
 	}
 	
-	//Mouse Listener
+	//Mouse Listener //
 	class MouseLis implements MouseListener
 	{
 		public void mouseExited(MouseEvent e)
